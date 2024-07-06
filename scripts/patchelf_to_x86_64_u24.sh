@@ -1,0 +1,1 @@
+patchelf --replace-needed  libboost_thread.so.1.74.0 libboost_thread.so ./lib_prebuild/x86_64/zhou/lib/libbasic_kits.so 
